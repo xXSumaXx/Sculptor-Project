@@ -91,5 +91,5 @@ int main(void) {
     movP(&Dino, 0, 1, 0);
     movCal(&Dino, 0, 0, 0);
   
-  Dino.writeOFF("Dino.off");
+  Dino.writeOFF("Dino2.off");
 }
