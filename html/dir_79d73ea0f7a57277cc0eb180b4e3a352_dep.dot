@@ -1,0 +1,11 @@
+digraph "C:/Users/erick/Documents/GitHub/Sculptor-Project"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  compound=true
+  subgraph clusterdir_e5fbe6d2783ccd4c93c7856d92d7be6e {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", style="filled,dashed,", label="GitHub", fontname="Helvetica", fontsize="10", URL="dir_e5fbe6d2783ccd4c93c7856d92d7be6e.html"]
+  dir_79d73ea0f7a57277cc0eb180b4e3a352 [shape=box, label="Sculptor-Project", style="filled,bold,", fillcolor="#edf0f7", color="grey25", URL="dir_79d73ea0f7a57277cc0eb180b4e3a352.html"];
+  }
+}
